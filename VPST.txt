@@ -19,8 +19,8 @@
 
 # 1. REQUISITOS
 # --------------
-# - VPS con Linux (Ubuntu recomendado)
-# - Dominio (Opcional, pero recomendado)
+# - VPS con Linux
+# - Dominio
 # - Cliente Android con WireGuard
 # - Acceso root al servidor
 
